@@ -24,9 +24,9 @@ Here's where customer churn prediction comes in. Just like a weather forecast, i
 *	Finding the % of Churn Customers and customers that keep in with the active services.
 *	Analysing the data in terms of various features responsible for customer Churn
 *	Finding a most suited machine learning model for correct classification of Churn and non-churn customers
-![image](https://github.com/galax19ksh/Customer-churn-analysis/assets/112553872/b4f7e788-0200-46ae-aaed-2c7407315dbe)
 
 # Insights gathered by EDA
+![image](https://github.com/galax19ksh/Customer-churn-analysis/assets/112553872/b4f7e788-0200-46ae-aaed-2c7407315dbe)
 * Churn rate is 26.6 %.
 * Gender does not really affect churn rate.
 * Electronic check medium are the highest churners
