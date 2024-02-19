@@ -1,11 +1,13 @@
 ## Customer-churn-analysis
 using Power BI and python libraries
+![image](https://github.com/galax19ksh/Customer-churn-analysis/assets/112553872/d281f142-fbd8-4d4d-a376-7d3a2f3fd7a0)
+
+![image](https://github.com/galax19ksh/Customer-churn-analysis/assets/112553872/f3b1d862-5eeb-4dca-a9f3-9e3786f33c59)
 
 # What is Customer Churn?
 Customer churn, also known as customer attrition, refers to the loss of customers over time. It's basically when customers stop using your product or service and decide not to return. It's important for businesses to track and understand their churn rate, as it can have a significant impact on their bottom line.
 *Telecom industry:
 Customers in the telecom industry can choose from a variety of service providers and actively switch from one to the next. The telecommunications business has an annual churn rate of 15-25 percent in this highly competitive market.
-
 
 # Causes of churn:
 *	Poor customer service: Long wait times, unhelpful interactions, unresolved issues.
@@ -30,4 +32,4 @@ Here's where customer churn prediction comes in. Just like a weather forecast, i
 * Contract Type - Monthly customers are more likely to churn because of no contract terms, as they are free to go customers.
 * No Online security, No Tech Support category are high churners
 * Non senior Citizens are high churners
-* 
+
